@@ -1,5 +1,5 @@
 # UIU Developers Hub
-
+![LOGO](https://github.com/UIU-Developers-Hub/.github/blob/main/assets/logo.png?raw=true)
 Welcome to the UIU Developers Hub, a vibrant community of developers consisting of UIU (United International University) students, alumni, and faculty members. At UIU Developers Hub, we foster collaboration, innovation, and the development of new projects while providing a platform for UIU members to showcase their talents and contribute to meaningful projects.
 
 ## About Us
