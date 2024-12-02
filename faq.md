@@ -4,13 +4,13 @@
 
 _"No, like messenger Discord is also a personal messaging and social media platform. The only time you'll require a Uni Email is to verify that you are a student of UIU and the Email Belongs to you"_
 
-Can we use discord outside of UIU DH Activity?
+> Can we use discord outside of UIU DH Activity?
 
-" Of course Infact discord is a great platform to use as a communication platform with your gaming buddies (if you have any that is :3)"
+_" Of course Infact discord is a great platform to use as a communication platform with your gaming buddies (if you have any that is :3)"_
 
-Is My Uni Email going to be safe?
+> Is My Uni Email going to be safe?
 
-" Now the only use of the E-Mail will be for the Automatic Verification and only Super Admins will have access to that incase they reach out to you with more learning experience"
+_"Now the only use of the E-Mail will be for the Automatic Verification and only Super Admins will have access to that incase they reach out to you with more learning experience"_
 
 One of my friends sent me a link and is asking me to relog back into discord should I do it?
 
