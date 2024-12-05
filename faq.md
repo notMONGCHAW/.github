@@ -20,13 +20,6 @@
 </br>
 </br>
 
->:mag: **What makes the Developers Hub different from other clubs?**
-
-:seedling:The Developers Hub is focused specifically on technical skill-building and real-world problem-solving through programming and development. We offer a space where developers can collaborate, innovate, and grow, which sets us apart from more general-purpose clubs.
-
-</br>
-</br>
-
 >:mag: **Do we need to use our university Emails to sign up for the Discord Account?**
 
  
